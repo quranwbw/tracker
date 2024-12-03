@@ -1,3 +1,8 @@
+## Update: A new version of QuranWBW.com has been released and is now available at [this repository](https://github.com/marwan/quranwbw). Please note that this repository was for the old version and is no longer active.
+
+----------------
+
+
 <br>
 <div align="center"><a target="_blank" href="https://quranwbw.com"><img src="https://i.imgur.com/9UpE2Wy.png" width="500"></a></div>
 
